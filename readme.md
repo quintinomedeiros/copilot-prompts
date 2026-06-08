@@ -1,110 +1,289 @@
-<!--START_SECTION:header-->
+# 🚀 Plano de Transição para Ciência de Dados com IA Aplicada
+
 <div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
+
+# 🧠 Data Science & AI Career Journey
+
+### Transformando experiência em Psicologia, Educação Corporativa e Tecnologia em soluções baseadas em Dados e Inteligência Artificial
+
+![Data Science](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
+
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-red)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
 </div>
-<!--END_SECTION:header-->
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+---
 
-</p>
+# 👨‍💻 Sobre este Projeto
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Este repositório documenta meu plano de desenvolvimento profissional na área de Ciência de Dados com foco em Inteligência Artificial Aplicada.
 
-<br/>
-<br/>
+O conteúdo foi construído a partir de uma análise de perfil profissional considerando:
 
-## 💻 Sobre o Projeto
+* 🎓 Formação em Psicologia
+* 💻 Formação em Análise e Desenvolvimento de Sistemas
+* 📊 Experiência com indicadores e análise de dados
+* 👥 Gestão de Pessoas
+* 📚 Educação Corporativa
+* 🤖 Interesse em Inteligência Artificial e Automação
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+---
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+# 🎯 Resultado da Entrevista de Carreira
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+## 🥇 Carreira Recomendada
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+### Cientista de Dados com foco em IA Aplicada
 
-- _Exemplo_:
+### Score de Compatibilidade
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+🟢 19/20
 
-- [Outros pré-requisitos, se aplicável]
+---
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+## 💡 Por que esta carreira?
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+A análise identificou forte alinhamento entre:
 
-- [Lista das habilidades principais a serem desenvolvidas]
+✅ Interesse por dados
 
-  - [Subhabilidades relacionadas, se aplicável]
+✅ Interesse por Inteligência Artificial
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+✅ Experiência em análise de indicadores
 
-## 🎯 Objetivos e Resultados Esperados
+✅ Conhecimento em Python
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+✅ Formação multidisciplinar
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+✅ Experiência em educação e comportamento humano
 
-<!--START_SECTION:footer-->
+---
 
-<br />
-<br />
+## 📈 Oportunidades Identificadas
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+* 🤖 IA Aplicada
+* 📊 Data Science
+* 👥 People Analytics
+* 🎓 Learning Analytics
+* 🏛️ Analytics Governamental
+* 📚 Inteligência para Educação Corporativa
+
+---
+
+# 🧠 Mapa de Competências
+
+## CORE SKILLS
+
+### Programação
+
+* Python
+* SQL
+* Git
+
+### Dados
+
+* Estatística
+* Probabilidade
+* Visualização de Dados
+
+### Inteligência Artificial
+
+* Machine Learning
+* IA Generativa
+* Engenharia de Prompt
+
+---
+
+## NICE TO HAVE
+
+* Docker
+* AWS
+* Azure
+* Engenharia de Dados
+* MLOps
+
+---
+
+# 🛠️ Stack Tecnológica
+
+| Categoria        | Ferramentas  |
+| ---------------- | ------------ |
+| Linguagem        | Python       |
+| Banco de Dados   | SQL          |
+| Visualização     | Power BI     |
+| Versionamento    | Git/GitHub   |
+| Machine Learning | Scikit-Learn |
+| IA Generativa    | OpenAI API   |
+| Frameworks IA    | LangChain    |
+| Containers       | Docker       |
+
+---
+
+# 🗺️ Roadmap de Estudos (90 Dias)
+
+## 📅 Mês 1 — Fundamentos
+
+### Semana 1-2
+
+* Python para Dados
+* Pandas
+* NumPy
+* Jupyter Notebook
+
+### Semana 3-4
+
+* Estatística Descritiva
+* Probabilidade
+* Visualização de Dados
+
+### Entrega
+
+📊 Projeto Exploratório com Dataset Público
+
+---
+
+## 📅 Mês 2 — Machine Learning
+
+### Semana 5-6
+
+* SQL
+* Bancos de Dados
+* Consultas Analíticas
+
+### Semana 7-8
+
+* Regressão
+* Classificação
+* Avaliação de Modelos
+
+### Entrega
+
+🤖 Primeiro Modelo de Machine Learning
+
+---
+
+## 📅 Mês 3 — IA Aplicada
+
+### Semana 9-10
+
+* LLMs
+* APIs de IA
+* Prompt Engineering
+
+### Semana 11-12
+
+* Portfólio
+* GitHub
+* Entrevistas Técnicas
+
+### Entrega
+
+🚀 Projeto Final Publicado
+
+---
+
+# 🚀 Projeto de Portfólio
+
+## Observatório Inteligente de Necessidades de Capacitação Legislativa
+
+### Objetivo
+
+Criar uma solução capaz de:
+
+* Coletar dados de entrevistas
+* Consolidar informações
+* Aplicar IA para análise textual
+* Gerar relatórios automáticos
+* Produzir dashboards gerenciais
+
+---
+
+## Arquitetura Prevista
+
+```text
+Entrevistas
+      ↓
+Banco de Dados
+      ↓
+Python ETL
+      ↓
+Análise com IA
+      ↓
+Dashboard Power BI
+      ↓
+Relatórios Automáticos
+```
+
+---
+
+# 📚 Trilha de Aprendizagem
+
+## Etapa 1
+
+🐍 Python para Dados
+
+## Etapa 2
+
+📊 Estatística Aplicada
+
+## Etapa 3
+
+🗄️ SQL
+
+## Etapa 4
+
+🤖 Machine Learning
+
+## Etapa 5
+
+🧠 IA Generativa
+
+## Etapa 6
+
+☁️ Cloud Computing
+
+---
+
+# 🎯 Objetivos de Curto Prazo
+
+* [ ] Consolidar fundamentos de Python
+* [ ] Dominar SQL
+* [ ] Desenvolver 3 projetos de portfólio
+* [ ] Publicar projetos no GitHub
+* [ ] Aprender IA Generativa
+* [ ] Criar soluções baseadas em LLMs
+
+---
+
+# 📈 Objetivo Profissional
+
+Tornar-me especialista em Ciência de Dados e Inteligência Artificial Aplicada, com foco em soluções para:
+
+🏛️ Setor Público
+
+📚 Educação Corporativa
+
+👥 Gestão de Pessoas
+
+🤖 Automação Inteligente
+
+---
+
+# 🌟 Frase Norteadora
+
+> "Transformar dados em conhecimento e conhecimento em decisões inteligentes."
+
+---
+
+<div align="center">
+
+### 🚀 Em evolução contínua
+
+⭐ Se você gostou deste projeto, deixe uma estrela!
+
+</div>
